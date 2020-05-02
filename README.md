@@ -24,8 +24,8 @@ chmod +x ngrok
 <p> Starting ngrok server </p>
 <pre><code>./ngrok http 1234 (you can give any 4 digit port number)</code></pre>
 <p>Open new session(termux) or new tab(Kali Linux) and run the codes given below</p>
-<pre><code>cd WifiPhish</code></pre>
-<pre><code>php -S localhost:1234
+<pre><code>cd WifiPhish
+php -S localhost:1234
 </code></pre>
 <p>Now share the ngrok link generated in 1st session(Termux) or 1st tab(Kali linux).</p>
 <p>To view hacked passwords</p>
