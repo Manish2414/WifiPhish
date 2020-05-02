@@ -1,7 +1,6 @@
-<h1 align="center">WifiPhish</h1>
-<p align="center">
-      Hack Anyone's WiFi</p>
-# Author: github.com/manish2414
+#WifiPhish
+<p>Hack Anyone's WiFi</p>
+## Author: github.com/manish2414
 ## YouTube: youtube.com/manishtechnical24
 ### Don't copy this code
 <a target="_blank" rel="noopener noreferrer" href="https://1.bp.blogspot.com/-S_yca1Fv4IQ/Xq1RGK4V-qI/AAAAAAAAGVw/C5tqT8AipCEHx1uXSfZ8VTk6nN7RTuUxQCLcBGAsYHQ/s1600/Capture.JPG"><img src="https://1.bp.blogspot.com/-S_yca1Fv4IQ/Xq1RGK4V-qI/AAAAAAAAGVw/C5tqT8AipCEHx1uXSfZ8VTk6nN7RTuUxQCLcBGAsYHQ/s1600/Capture.JPG" alt="cheese" data-canonical-src="https://techchip.net/wp-content/uploads/2020/04/camphish.jpg" style="max-width:100%;"></a>
